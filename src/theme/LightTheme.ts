@@ -4,7 +4,7 @@ const ORANGE_THEME: ThemeTypes = {
     dark: false,
     variables: {
         'border-color': '#e5eaef',
-        'border-opacity': 1,
+        'border-opacity': 1
     },
     colors: {
         primary: '#00AEEF',
@@ -19,7 +19,7 @@ const ORANGE_THEME: ThemeTypes = {
         lightsuccess: '#E6FFFA',
         lighterror: '#FDEDE8',
         lightwarning: '#FEF5E5',
-        lightinfo:'#EBF3FE',
+        lightinfo: '#EBF3FE',
         textPrimary: '#11142d',
         textSecondary: '#777e89',
         borderColor: '#e5eaef',
@@ -34,5 +34,4 @@ const ORANGE_THEME: ThemeTypes = {
     }
 };
 
-
-export { ORANGE_THEME};
+export { ORANGE_THEME };
